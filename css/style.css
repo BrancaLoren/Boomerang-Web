@@ -1,0 +1,258 @@
+td{
+	vertical-align: middle !important;
+}
+
+.title-list button{
+	float: right;
+	margin-right: 4%;
+}
+
+.title-list p{
+	font-size: 30px;
+	float: left;
+	color: #555;
+}
+
+.title-list{
+	display: inline-block;
+	width: 100%;
+}
+.form-group.botao-cancel{
+	float: left;
+}
+.para-esconder{
+	display: none;
+}
+.para-esconder input{
+	display: none;
+}
+/**********************************LOGiN**************************************************************/
+
+.body-login{
+	 width: 100%;
+	 height: 100%;
+	 background-image: url("imagens/bg_web.png");
+}
+
+.sign-in{
+	text-align: center;
+}
+
+.color-button{
+	background-color: #555 !important;
+	float: right;
+}
+/**********************************List**************************************************************/
+.body-list{
+	 width: 100%;
+	 height: 100%;
+	 background-image: url("imagens/bg_web.png");
+}
+
+.color-table{
+	color: #555;
+}
+.color-buttons{
+	background-color: #555 !important;
+}
+.alinhar-list{
+	margin-top: 30px;
+    margin-bottom: 20px;
+}
+.botao-novo{
+	margin-top: 20px;
+	float: right;
+	margin-right: 30px;
+}
+/**********************************POST**************************************************************/
+.body-post{
+	width: 100%;
+    height: 100%;
+    background-image: url(imagens/bg_web.png);
+}
+.title-post{
+	text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+/**********************************Index*************************************************************/
+
+.thumbnail{
+	height: 350px;
+	background-repeat: no-repeat;-moz-background-size: 100% 100%;	
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+	margin-bottom: 0px !important;
+	margin-top: 10px !important;
+	border-left-width: 0px !important;
+	border-right-width: 0px !important;
+	padding-left: 0px !important;
+	padding-bottom: 0px !important;
+	padding-right: 0px !important;
+}
+
+.back-thumb{
+	background-color: rgba(0, 0, 0, 0.58);
+    margin-top: 56%;
+    height: 150px;
+}
+
+.color-branco{
+	color: #fff;
+	display: inline-block;
+}
+
+.color-verde{
+	color: #b6c800;
+	float: left;
+	margin-left: 2px;
+	margin-top: 7px;
+	font-size: 13px;
+}
+
+.titulo-branco{
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 0;
+	margin-top: -3px;
+}
+
+.data-verde{
+	font-weight: bold;
+
+}
+
+.descricao-branco{
+	font-size: 11px;
+	margin-top: 5px;
+}
+
+.descricao-branco p{
+	font-size: 11px;
+	margin-top: 5px;
+}
+
+/**********************************detalhes*************************************************************/
+
+.img-cabecalho{
+	width: 100%;
+	height: 450px;
+	background-repeat: no-repeat;-moz-background-size: 100% 100%;	
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+
+.nav-detalhes{
+	margin-bottom: 0px !important ;
+	background-color: #b6c800 !important;
+}
+
+.titulo-detalhes{
+	margin-top: 35px;
+	font-weight: bold;
+	font-size: 40px;
+}
+
+.descricao-detalhes{
+	margin-top: 35px;
+	font-size: 15px;
+}
+
+.setar-alinhamento p{
+	text-indent: 3em;
+	text-align: justify;
+	font-size: 15px;
+}
+
+.color-black{
+	color: black;
+}
+
+.color-green{
+	color: #b6c800;
+	margin-left: 2px;
+	font-size: 13px;
+	display: inline-block;
+}
+
+.setar-display{
+	display: block;
+	text-align: center;
+}
+.setar-alinhamento{
+	text-align: left;
+}
+
+/**********************************boom*************************************************************/
+
+nav{
+	margin-bottom: 0px !important;
+	height: 76px;
+
+}
+
+.navbar {
+	margin-bottom: 0px !important;
+ 	height: 76px;
+ 	position: fixed !important;
+    width: 100% !important;
+    z-index: 99 !important;
+        top: 0px !important;
+
+ }
+ .title_text{
+ 	margin-top: 0px;
+ }
+
+
+
+ .number_one .lado_esquerdo{
+ 	float: left;
+ 	width: 40%;
+ 	padding: 20px 0px;
+ }
+.number_one .lado_direito{
+ 	float: right;
+ 	width: 40%;
+ 	padding: 20px 0px;
+ } 
+
+ .number_two .lado_esquerdo{
+ 	float: left;
+ 	width: 40%;
+ 	padding: 20px 0px;
+ }
+.number_two .lado_direito{
+ 	float: right;
+ 	width: 40%;
+ 	padding: 20px 0px;
+ } 
+
+  .number_three .lado_esquerdo{
+ 	float: left;
+ 	width: 40%;
+ 	padding: 20px 0px;
+ }
+.number_three .lado_direito{
+ 	float: right;
+ 	width: 40%;
+ 	padding: 20px 0px;
+ } 
+
+.number_one{
+	display: inline-block;
+}
+
+.number_two{
+	display: inline-block;
+}
+
+.number_three{
+	display: inline-block;
+  }
+
+.thumbnail{
+      margin-top: 80px !important
+
+}      
